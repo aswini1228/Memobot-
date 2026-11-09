@@ -1,10 +1,10 @@
-MemoBot – Your AI That Remembers
+## MemoBot – Your AI That Remembers
 
-Project Description
+## Project Description
 
 MemoBot is an intelligent chatbot built using Streamlit, a Local Large Language Model (LLM), and LangChain Memory. It can maintain conversation history and provide context-aware responses based on previous messages.
 
-Objectives
+## Objectives
 
 - Build an AI chatbot using a Local LLM.
 - Integrate LangChain conversation memory.
@@ -12,7 +12,7 @@ Objectives
 - Generate intelligent and context-aware responses.
 - Create an interactive user interface using Streamlit.
 
-Technologies Used
+## Technologies Used
 
 - Python
 - Streamlit
@@ -21,7 +21,7 @@ Technologies Used
 - LangChain
 - GitHub
 
-Features
+## Features
 
 - Interactive chatbot interface
 - Local LLM integration
@@ -30,14 +30,14 @@ Features
 - Clear chat option
 - Adjustable response creativity
 
-Project Structure
+## Project Structure
 
 MemoBot/
 ├── app.py
 ├── requirements.txt
 └── README.md
 
-Installation
+## Installation
 
 Install the required libraries:
 
@@ -51,10 +51,13 @@ Run Application
 
 streamlit run app.py
 
-Expected Result
+## Expected Result
 
 MemoBot provides an interactive AI chatbot that remembers previous messages and generates context-aware responses.
 
-Conclusion
+## Conclusion
 
 MemoBot demonstrates the integration of Local LLM technology, Streamlit, and LangChain Memory to develop an intelligent conversational chatbot.
+## Author 
+ASWINI S 
+Bsc cs with AI 
